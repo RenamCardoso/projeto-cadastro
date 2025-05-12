@@ -1,6 +1,6 @@
 ## 🖥️ Projeto
 
-Esse é um projeto Fulstack com uma API de Cadastro, com Backend feito em Node.js e o Frontend desenvolvido em React.js.
+Esse é um projeto Fullstack com uma API de Cadastro, com Backend feito em Node.js e o Frontend desenvolvido em React.js.
 
 ## 🚀 Tecnologias
 
