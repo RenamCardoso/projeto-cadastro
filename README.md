@@ -4,7 +4,7 @@ Esse é um projeto Fullstack com uma API de Cadastro, com Backend feito em Node.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Nodejs
 - Prisma
