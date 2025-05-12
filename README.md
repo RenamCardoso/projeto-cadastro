@@ -7,6 +7,7 @@ Esse é um projeto Fullstack com uma API de Cadastro, com Backend feito em Node.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Nodejs
+- Javascript
 - Prisma
 - Express
 - Git e Github
